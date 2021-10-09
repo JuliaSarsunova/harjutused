@@ -1,6 +1,6 @@
 function checkTemp(temperatuur){
     if (temperatuur <= 20){
-        console.log("liiga kulm")}
+        console.log("liiga külm")}
     if (temperatuur >= 21 && temperatuur <= 40){
         console.log("paras temperatuur")}
     if (temperatuur >= 41){
@@ -9,7 +9,7 @@ function checkTemp(temperatuur){
 
 function checkTemp(temperatuur){
     if (temperatuur <= 20){
-        console.log("liiga kulm")
+        console.log("liiga külm")
         return (-1)}
     if (temperatuur >= 21 && temperatuur <= 40){
         console.log("paras temperatuur")
